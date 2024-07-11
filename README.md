@@ -36,3 +36,6 @@ Start the Streamlit application with the following command:
 streamlit run streamlit.py
 ```
 
+### Demo
+
+![Alt text](images/image1.png)
