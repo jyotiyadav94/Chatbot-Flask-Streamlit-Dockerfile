@@ -1,0 +1,7 @@
+flask
+huggingface_hub
+python-dotenv
+llama_index
+sentence-transformers
+requests
+streamlit
